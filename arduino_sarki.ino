@@ -30,7 +30,7 @@ int beats[]  = {8, 8, 8, 8, 16, 8, 8, 8, 16, 8, 8, 8, 8, 16, 8, 8, 8, 8, 16, 8, 
 int MAX_COUNT = sizeof(melody) / 2; // Melody length, for looping.
 
 // Set overall tempo
-long tempo = 10000;
+long tempo = 50000;
 // Set length of pause between notes
 int pause = 1000;
 // Loop variable to increase Rest length
